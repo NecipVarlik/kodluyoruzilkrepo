@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Fron-End Eğitiminde oluşturd
 
 ## Installation 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-`git clone https://github.com/NecipVarlik/kodluyoruzilkrepo.git`
+```git clone https://github.com/NecipVarlik/kodluyoruzilkrepo.git```
 
 ## Usage 
 Projeyi cloneladıktan sonra Visual
